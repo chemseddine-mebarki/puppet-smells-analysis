@@ -1,0 +1,1 @@
+# puppet-smells-analysis
